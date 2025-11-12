@@ -1,4 +1,4 @@
-# Code-Blocks-Experiment-2
+# 7b) Implemenatation of go-back-n protocol - Selective repeat
 
 📡 Implementation of Go-Back-N Protocol – Selective Repeat
 
